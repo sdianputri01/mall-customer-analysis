@@ -1,5 +1,7 @@
 # 🏢 Mall Customer Analysis Dashboard
 
+![Power BI Dashboard](dashboard_powerbi_screenshot.png)
+
 ---
 
 ## 📊 Project Overview
@@ -192,15 +194,15 @@ Simply view the `.png` files for a quick preview of both dashboards.
 
 ## 📧 Contact
 
-Created by: Salsabila Dian Putri
-LinkedIn: Salsabila Dian Putri
-Email: sdianputri01@gmail.com
+**Created by:** Salsabila Dian Putri
+**LinkedIn:** Salsabila Dian Putri
+**Email:** sdianputri01@gmail.com
 
 ---
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
 
 ---
 
@@ -211,3 +213,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - Created as part of data analytics portfolio
 
 ---
+
+**⭐ If you found this project helpful, please give it a star!**
